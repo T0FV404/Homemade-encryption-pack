@@ -2,6 +2,7 @@ TODO(也有可能一辈子不会动):
 1. 处理TLS而不是直接清理掉
 2. 加密IAT
 3. 处理掉加壳器由于错误理解的无用代码
+4. 加上各类可以用来对抗逆向的方式
 
 主要学习文章:
 + https://www.freebuf.com/articles/system/268177.html
